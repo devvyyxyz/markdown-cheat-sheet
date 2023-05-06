@@ -71,20 +71,48 @@ A Markdown cheat sheet providing a quick overview of all the Markdown syntax ele
 
 <br />
 
-## Blockquote
-> blockquote text
+## Ordered list
+1. first 
+2. second 
+3. third
 
 <br />
 
-## Blockquote
-> blockquote text
+## Unordered list
+- first 
+- second 
+- third
 
 <br />
 
-## Blockquote
-> blockquote text
+## Task list
+- [x] first 
+- [ ] second 
+- [ ] third
 
 <br />
 
-## Blockquote
-> blockquote text
+## Emoji
+Wow you are so funny :joy:
+
+<br />
+
+## Table
+| Syntax | Description | 
+| ----------- | ----------- | 
+| text | description |
+
+<br />
+
+## Fenced code block
+```
+code...
+```
+
+<br />
+
+## Footnote
+Here's a sentence with a footnote. [^1] 
+[^1]: This is the footnote.
+
+<br />
